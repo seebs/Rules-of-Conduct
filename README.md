@@ -12,6 +12,6 @@ The Rules of Conduct, required reading. These rules must be UPHELD by any member
 9. If another member attempts to harass another user, even if they are unrelated to this organization, via the real world, for issues relating to this organization and its internal affairs, they will be removed of all power and reprimanded. Keep this via the internet, not the real world. We don't want innocents to get involved with our drama. Phone calls, mail and real world confrontations are examples of harassment via the real world. In addition, if such situations are bad enough, we encourage anyone who is the target of such a member to call the authorities.
 10. All users must comply with the EULA of Minecraft.
 11. Apply common sense where the rules seem to lack or check back with the team.
-12. No user is to be rushed in making content, even if they have been behind. Rushed content is the bane of all.
+12. No user is to be rushed in making content, even if they have been behind. Rushed content is the bane of all. In addition, pretty much everyone has a life outside of GitHub and Minecraft modding.
 
 This document is subject to modification by it's owner, Sunconure11, at any time. If a new rule is required, please send it to him, and it will be evaluated and possibly added.
