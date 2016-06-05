@@ -13,5 +13,6 @@ The Rules of Conduct, required reading. These rules must be UPHELD by any member
 10. All users must comply with the EULA of Minecraft.
 11. Apply common sense where the rules seem to lack or check back with the team.
 12. No user is to be rushed in making content, even if they have been behind. Rushed content is the bane of all. In addition, pretty much everyone has a life outside of GitHub and Minecraft modding.
+13. To remove a member from the organization (excluding the tyrant clause, such members will be pulled right away), this must be voted on by everyone.
 
 This document is subject to modification by it's owner, Sunconure11, at any time. If a new rule is required, please send it to him, and it will be evaluated and possibly added.
