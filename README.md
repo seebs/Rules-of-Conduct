@@ -17,5 +17,6 @@ The Rules of Conduct, required reading. These rules must be UPHELD by any member
 14. If a user outside of the organization is caught harassing a user of the organization via GitHub, if it happens in our sphere of influence, the user will be blocked from all of the repos. This is based on the rules against "designer harassment" in the ZT2 community.
 15. Do not ask any individual for an ETA, as there are none.
 16. In addition to clause 14, if it happens between two or more individuals on the team, it will be dealt with properly, and if needed, treated by clause 9.
+17. We will not clamp any organization member's privileges, no matter what their role is, on reasons based on personal grudges and concern trolling. If this is actually required for whatever reason, please specify an actual reason, or don't bother.
 
 This document is subject to modification by it's owner, Sunconure11, at any time. If a new rule is required, please send it to him, and it will be evaluated and possibly added.
