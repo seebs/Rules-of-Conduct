@@ -18,6 +18,6 @@ The Rules of Conduct, required reading. These rules must be UPHELD by any member
 15. Do not ask any individual for an ETA, as there are none.
 16. In addition to clause 14, if it happens between two or more individuals on the team, it will be dealt with properly, and if needed, treated by clause 9.
 17. We will not clamp any organization member's privileges, no matter what their role is, on reasons based on personal grudges and concern trolling. If this is actually required for whatever reason, please specify an actual reason, or don't bother.
-18. We are not to influence outside mods unless it is actually of concern to us. This only applies to us acting as a group towards other mods, devs, and modding teams. Any individual is free to contribute to other mods as much as they like.
+18. We are not to influence and/or get involved in drama from outside parties unless it is actually of concern to us. This only applies to us acting as a group towards other mods, devs, and modding teams. Any individual is free to contribute to other mods as much as they like.
 
 This document is subject to modification by it's owner, Sunconure11, at any time. If a new rule is required, please send it to him, and it will be evaluated and possibly added.
