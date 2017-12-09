@@ -25,6 +25,8 @@ This is a particularly vehement endorsement of inertia. Yes, if you block someon
 
 "We" again. This is a radically different kind of thing, though. The other things have been about how the *community* works, rules for interaction between devs. Suddenly the text jumps over into code design philosophy. Why? Why the assertion about "most" players? Is there a source, or is that just a personal opinion being ascribed to "most" players?
 
+Why do we need words like "unholy abomination", "unholy chimera", or the obviously hyperbolic "five billion others"? why emotionally-loaded language like "forced"? This sounds like a personal grudge.
+
 > <ol style="decimal" start="4"><li>No paid benefits in any mod. Look at Vazkii's patreon page if you want examples of what is okay for donation perks.</li>
 
 Still on code/mod design philosophy, but note the difference between this and the previous reference to other people; this one's respectful and possibly relevant. On the other hand, is it *really* a good idea to have a document like this refer to another page without any kind of date indicator? What happens if Vazkii changes? What are the *actual* rules? We may never know. For all we know, Vazkii's rules were different when this was written than they are now.
